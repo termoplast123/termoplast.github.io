@@ -1,0 +1,296 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="termoplast.xbz" resolutions="1x" timestamp="1553209516426">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="________.css" crc="499310960" ref="вакансии"/>
+    <file name="_________-________.css" crc="4122856051" ref="удаленные-вакансии"/>
+    <file name="_________.css" crc="380087310" ref="продукция"/>
+    <file name="______1.css" crc="4146529281" ref="оплата1"/>
+    <file name="_______-__-__________.css" crc="4223092902" ref="изделия-из-пластмассы"/>
+    <file name="______2.css" crc="512416055" ref="оплата2"/>
+    <file name="______________-______.css" crc="340123481" ref="полиэтиленовая-пленка"/>
+    <file name="________-__-____________.css" crc="2586192" ref="вакансии-на-производстве"/>
+    <file name="________1.css" crc="3788790093" ref="оплачено"/>
+    <file name="______________-_____.css" crc="3909955004" ref="полиэтиленовые-мешки"/>
+    <file name="index.css" crc="455679614" ref="index"/>
+    <file name="_____-_____.css" crc="3940025379" ref="пресс-формы"/>
+    <file name="________2.css" crc="459047633" ref="контакты"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:контакты:вакансии:продукция:изделия-из-пластмассы:полиэтиленовая-пленка:полиэтиленовые-мешки:пресс-формы:вакансии-на-производстве:удаленные-вакансии:оплата1:оплата2:оплачено"/>
+    <file name="museutils.js" crc="340535759" ref="index:контакты:вакансии:продукция:изделия-из-пластмассы:полиэтиленовая-пленка:полиэтиленовые-мешки:пресс-формы:вакансии-на-производстве:удаленные-вакансии:оплата1:оплата2:оплачено"/>
+    <file name="whatinput.js" crc="86476730" ref="index:контакты:вакансии:продукция:изделия-из-пластмассы:полиэтиленовая-пленка:полиэтиленовые-мешки:пресс-формы:вакансии-на-производстве:удаленные-вакансии:оплата1:оплата2:оплачено"/>
+    <file name="museconfig.js" crc="4286661555" ref="index:контакты:вакансии:продукция:изделия-из-пластмассы:полиэтиленовая-пленка:полиэтиленовые-мешки:пресс-формы:вакансии-на-производстве:удаленные-вакансии:оплата1:оплата2:оплачено"/>
+    <file name="jquery.musemenu.js" crc="510910590" ref="index:контакты:вакансии:продукция:изделия-из-пластмассы:полиэтиленовая-пленка:полиэтиленовые-мешки:пресс-формы:вакансии-на-производстве:удаленные-вакансии"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:контакты:вакансии:продукция:изделия-из-пластмассы:полиэтиленовая-пленка:полиэтиленовые-мешки:пресс-формы:вакансии-на-производстве:удаленные-вакансии:оплата1:оплата2:оплачено"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:контакты:вакансии:продукция:изделия-из-пластмассы:полиэтиленовая-пленка:полиэтиленовые-мешки:пресс-формы:вакансии-на-производстве:удаленные-вакансии:оплата1:оплата2:оплачено"/>
+    <file name="require.js" crc="7928878" ref="index:контакты:вакансии:продукция:изделия-из-пластмассы:полиэтиленовая-пленка:полиэтиленовые-мешки:пресс-формы:вакансии-на-производстве:удаленные-вакансии:оплата1:оплата2:оплачено"/>
+    <file name="webpro.js" crc="4059564322" ref="контакты:удаленные-вакансии:оплата1:оплата2"/>
+    <file name="form_check.php" crc="4020933626" ref="контакты"/>
+    <file name="form_throttle.php" crc="4259590256" ref="контакты"/>
+    <file name="form_process.php" crc="37464564" ref="контакты"/>
+    <file name="form-u5481.php" crc="3786428389" ref="контакты"/>
+    <file name="form-u5231.php" crc="4285246126" ref="удаленные-вакансии"/>
+    <file name="form-u7674.php" crc="3801351490" ref="оплата1"/>
+    <file name="form-u8168.php" crc="3962976992" ref="оплата2"/>
+  </folder>
+  <folder name="images">
+    <file name="maine2.jpg" crc="4224216895" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="xhushob2hnvuzhe85ba9edade79bf.png" crc="53830843" seo="true" ref="index:контакты:вакансии:продукция:изделия-из-пластмассы:полиэтиленовая-пленка:полиэтиленовые-мешки:пресс-формы:вакансии-на-производстве:удаленные-вакансии">
+      <caption webpage="продукция" alt=""/>
+      <caption webpage="изделия-из-пластмассы" alt=""/>
+      <caption webpage="вакансии-на-производстве" alt=""/>
+      <caption webpage="пресс-формы" alt=""/>
+      <caption webpage="удаленные-вакансии" alt=""/>
+      <caption webpage="полиэтиленовая-пленка" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="контакты" alt=""/>
+      <caption webpage="вакансии" alt=""/>
+      <caption webpage="полиэтиленовые-мешки" alt=""/>
+    </file>
+    <file name="u5939-4.png" crc="4126656076" ref="index"/>
+    <file name="u1881-8.png" crc="4239724008" ref="index"/>
+    <file name="u1884-11.png" crc="484355721" ref="index"/>
+    <file name="u1909-11.png" crc="260320316" ref="index"/>
+    <file name="u6258-12.png" crc="72646735" ref="index"/>
+    <file name="u6257-7.png" crc="3831568020" ref="index"/>
+    <file name="maine3 (1).jpg" crc="4012631498" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u6005-4.png" crc="376814062" ref="контакты"/>
+    <file name="u5537-15.png" crc="3921454960" ref="контакты"/>
+    <file name="u6008-4.png" crc="247448598" ref="контакты"/>
+    <file name="u6227-12.png" crc="72646735" ref="контакты"/>
+    <file name="u6226-7.png" crc="3831568020" ref="контакты"/>
+    <file name="3a5.jpg" crc="3763558489" seo="true" ref="вакансии:продукция:изделия-из-пластмассы:полиэтиленовая-пленка:полиэтиленовые-мешки:пресс-формы:вакансии-на-производстве:удаленные-вакансии">
+      <caption webpage="продукция" alt=""/>
+      <caption webpage="изделия-из-пластмассы" alt=""/>
+      <caption webpage="пресс-формы" alt=""/>
+      <caption webpage="удаленные-вакансии" alt=""/>
+      <caption webpage="полиэтиленовая-пленка" alt=""/>
+      <caption webpage="вакансии-на-производстве" alt=""/>
+      <caption webpage="вакансии" alt=""/>
+      <caption webpage="полиэтиленовые-мешки" alt=""/>
+    </file>
+    <file name="82543118.jpg" crc="490727291" seo="true" ref="вакансии">
+      <caption webpage="вакансии" alt=""/>
+    </file>
+    <file name="images.jpg" crc="56014855" seo="true" ref="вакансии">
+      <caption webpage="вакансии" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="вакансии:продукция"/>
+    <file name="u4899.png" crc="4061186767" ref="вакансии"/>
+    <file name="u4899-r.png" crc="4061186767" ref="вакансии"/>
+    <file name="p20140912130129-diler.jpg" crc="4106362298" seo="true" ref="вакансии">
+      <caption webpage="вакансии" alt=""/>
+    </file>
+    <file name="u4905.png" crc="345131800" ref="вакансии"/>
+    <file name="u4905-r.png" crc="345131800" ref="вакансии"/>
+    <file name="u6236-12.png" crc="72646735" ref="вакансии"/>
+    <file name="u6235-7.png" crc="3831568020" ref="вакансии"/>
+    <file name="u6265-4.png" crc="3946636345" ref="продукция"/>
+    <file name="dsc00674_ok_800x600 (1).jpg" crc="4106116363" seo="true" ref="продукция">
+      <caption webpage="продукция" alt=""/>
+    </file>
+    <file name="u3349.png" crc="346467114" ref="продукция"/>
+    <file name="u3349-r.png" crc="280463099" ref="продукция"/>
+    <file name="stretch.jpg" crc="226834953" seo="true" ref="продукция">
+      <caption webpage="продукция" alt=""/>
+    </file>
+    <file name="u3352_states.png" crc="324391629" ref="продукция"/>
+    <file name="u3352_states-r.png" crc="3842987152" ref="продукция"/>
+    <file name="peicon3.jpg" crc="121555602" seo="true" ref="продукция">
+      <caption webpage="продукция" alt=""/>
+    </file>
+    <file name="u3343_states.png" crc="4271508202" ref="продукция"/>
+    <file name="u3343_states-r.png" crc="3903450027" ref="продукция"/>
+    <file name="pressformi.jpg" crc="72030795" seo="true" ref="продукция">
+      <caption webpage="продукция" alt=""/>
+    </file>
+    <file name="u3355_states.png" crc="4259814044" ref="продукция"/>
+    <file name="u3355_states-r.png" crc="3848178413" ref="продукция"/>
+    <file name="u6245-12.png" crc="72646735" ref="продукция"/>
+    <file name="u6244-7.png" crc="3831568020" ref="продукция"/>
+    <file name="u4160-4.png" crc="4167937783" ref="изделия-из-пластмассы"/>
+    <file name="10040350277662.jpg" crc="4193329730" seo="true" ref="изделия-из-пластмассы">
+      <caption webpage="изделия-из-пластмассы" alt=""/>
+    </file>
+    <file name="1.jpg" crc="438339177" seo="true" ref="изделия-из-пластмассы">
+      <caption webpage="изделия-из-пластмассы" alt=""/>
+    </file>
+    <file name="u4243-4.png" crc="22095450" ref="изделия-из-пластмассы"/>
+    <file name="u4246-4.png" crc="3941551436" ref="изделия-из-пластмассы"/>
+    <file name="1 (1).jpg" crc="122829146" seo="true" ref="изделия-из-пластмассы">
+      <caption webpage="изделия-из-пластмассы" alt=""/>
+    </file>
+    <file name="tazy.jpg" crc="4138833523" seo="true" ref="изделия-из-пластмассы">
+      <caption webpage="изделия-из-пластмассы" alt=""/>
+    </file>
+    <file name="u4249-4.png" crc="4021393013" ref="изделия-из-пластмассы"/>
+    <file name="u4252-4.png" crc="4034803809" ref="изделия-из-пластмассы"/>
+    <file name="vedro.jpg" crc="109154719" seo="true" ref="изделия-из-пластмассы">
+      <caption webpage="изделия-из-пластмассы" alt=""/>
+    </file>
+    <file name="krish.jpg" crc="4196921615" seo="true" ref="изделия-из-пластмассы">
+      <caption webpage="изделия-из-пластмассы" alt=""/>
+    </file>
+    <file name="u4255-4.png" crc="4282433297" ref="изделия-из-пластмассы"/>
+    <file name="u4258-4.png" crc="3961934656" ref="изделия-из-пластмассы"/>
+    <file name="u6218-12.png" crc="72646735" ref="изделия-из-пластмассы"/>
+    <file name="u6217-7.png" crc="3831568020" ref="изделия-из-пластмассы"/>
+    <file name="u4261-4.png" crc="4051878045" ref="полиэтиленовая-пленка"/>
+    <file name="plenka.jpg" crc="403899780" seo="true" ref="полиэтиленовая-пленка">
+      <caption webpage="полиэтиленовая-пленка" alt=""/>
+    </file>
+    <file name="u4274-4.png" crc="473025091" ref="полиэтиленовая-пленка"/>
+    <file name="u4277-37.png" crc="82816563" ref="полиэтиленовая-пленка"/>
+    <file name="1391694601_4.jpg" crc="529037846" seo="true" ref="полиэтиленовая-пленка">
+      <caption webpage="полиэтиленовая-пленка" alt=""/>
+    </file>
+    <file name="11_00.jpg" crc="271844846" seo="true" ref="полиэтиленовая-пленка">
+      <caption webpage="полиэтиленовая-пленка" alt=""/>
+    </file>
+    <file name="u4290-4.png" crc="4109051179" ref="полиэтиленовая-пленка"/>
+    <file name="21.jpg" crc="251257917" seo="true" ref="полиэтиленовая-пленка">
+      <caption webpage="полиэтиленовая-пленка" alt=""/>
+    </file>
+    <file name="u4303-4.png" crc="54454147" ref="полиэтиленовая-пленка"/>
+    <file name="31.jpg" crc="472236688" seo="true" ref="полиэтиленовая-пленка">
+      <caption webpage="полиэтиленовая-пленка" alt=""/>
+    </file>
+    <file name="u4306-4.png" crc="3919344897" ref="полиэтиленовая-пленка"/>
+    <file name="u6209-12.png" crc="72646735" ref="полиэтиленовая-пленка"/>
+    <file name="u6208-7.png" crc="3831568020" ref="полиэтиленовая-пленка"/>
+    <file name="pakety.jpg" crc="4085339590" seo="true" ref="полиэтиленовые-мешки">
+      <caption webpage="полиэтиленовые-мешки" alt=""/>
+    </file>
+    <file name="pakety2.jpg" crc="414999757" seo="true" ref="полиэтиленовые-мешки">
+      <caption webpage="полиэтиленовые-мешки" alt=""/>
+    </file>
+    <file name="u4355-14.png" crc="4243618278" ref="полиэтиленовые-мешки"/>
+    <file name="u6200-12.png" crc="72646735" ref="полиэтиленовые-мешки"/>
+    <file name="u6199-7.png" crc="3831568020" ref="полиэтиленовые-мешки"/>
+    <file name="u4358-4.png" crc="4135514649" ref="пресс-формы"/>
+    <file name="press.jpg" crc="3905686525" seo="true" ref="пресс-формы">
+      <caption webpage="пресс-формы" alt=""/>
+    </file>
+    <file name="u4371-4.png" crc="103488206" ref="пресс-формы"/>
+    <file name="111.jpg" crc="4014017921" seo="true" ref="пресс-формы">
+      <caption webpage="пресс-формы" alt=""/>
+    </file>
+    <file name="u4384-9.png" crc="4253400761" ref="пресс-формы"/>
+    <file name="12.jpg" crc="4053824956" seo="true" ref="пресс-формы">
+      <caption webpage="пресс-формы" alt=""/>
+    </file>
+    <file name="u4397-8.png" crc="388372435" ref="пресс-формы"/>
+    <file name="u6182-12.png" crc="72646735" ref="пресс-формы"/>
+    <file name="u6181-7.png" crc="3831568020" ref="пресс-формы"/>
+    <file name="u4920-4.png" crc="391988059" ref="вакансии-на-производстве"/>
+    <file name="resize.png" crc="277777685" seo="true" ref="вакансии-на-производстве">
+      <caption webpage="вакансии-на-производстве" alt=""/>
+    </file>
+    <file name="gruzchik.jpg" crc="4061115567" seo="true" ref="вакансии-на-производстве">
+      <caption webpage="вакансии-на-производстве" alt=""/>
+    </file>
+    <file name="1480536846984.jpg" crc="361467933" seo="true" ref="вакансии-на-производстве">
+      <caption webpage="вакансии-на-производстве" alt=""/>
+    </file>
+    <file name="visual-architecture-3125906_960_720.jpg" crc="109444081" seo="true" ref="вакансии-на-производстве">
+      <caption webpage="вакансии-на-производстве" alt=""/>
+    </file>
+    <file name="u4953-16.png" crc="528143657" ref="вакансии-на-производстве"/>
+    <file name="u4956-15.png" crc="165890813" ref="вакансии-на-производстве"/>
+    <file name="u4959-21.png" crc="3797294177" ref="вакансии-на-производстве"/>
+    <file name="u4962-16.png" crc="330968945" ref="вакансии-на-производстве"/>
+    <file name="u6173-12.png" crc="72646735" ref="вакансии-на-производстве"/>
+    <file name="u6172-7.png" crc="3831568020" ref="вакансии-на-производстве"/>
+    <file name="u4965-4.png" crc="3961809885" ref="удаленные-вакансии"/>
+    <file name="62e47acbc2e9761be1ab7e567d50befb-300x200.jpg" crc="247714331" seo="true" ref="удаленные-вакансии">
+      <caption webpage="удаленные-вакансии" alt=""/>
+    </file>
+    <file name="u4975-4.png" crc="449187781" ref="удаленные-вакансии"/>
+    <file name="u5001-4.png" crc="444725079" ref="удаленные-вакансии"/>
+    <file name="25.jpg" crc="3975901366" seo="true" ref="удаленные-вакансии">
+      <caption webpage="удаленные-вакансии" alt=""/>
+    </file>
+    <file name="u4998-4.png" crc="3778683655" ref="удаленные-вакансии"/>
+    <file name="u5004-4.png" crc="484433334" ref="удаленные-вакансии"/>
+    <file name="u5007-4.png" crc="71686626" ref="удаленные-вакансии"/>
+    <file name="u5037-57.png" crc="361181872" ref="удаленные-вакансии"/>
+    <file name="6faefa9eada164d38020cee8eccd9ac4-0.jpg" crc="306848959" seo="true" ref="удаленные-вакансии">
+      <caption webpage="удаленные-вакансии" alt=""/>
+    </file>
+    <file name="u5010-22.png" crc="449741602" ref="удаленные-вакансии"/>
+    <file name="6faefa9eada164d38020cee8eccd9ac4-1.jpg" crc="122482116" seo="true" ref="удаленные-вакансии">
+      <caption webpage="удаленные-вакансии" alt=""/>
+    </file>
+    <file name="visamaster.jpg" crc="298264089" seo="true" ref="удаленные-вакансии">
+      <caption webpage="удаленные-вакансии" alt=""/>
+    </file>
+    <file name="без названия (1).jpg" crc="4132870056" seo="true" ref="удаленные-вакансии">
+      <caption webpage="удаленные-вакансии" alt=""/>
+    </file>
+    <file name="u6160-12.png" crc="72646735" ref="удаленные-вакансии"/>
+    <file name="u6159-7.png" crc="3831568020" ref="удаленные-вакансии"/>
+    <file name="киви2.jpg" crc="116449337" seo="true" ref="оплата1">
+      <caption webpage="оплата1" alt=""/>
+    </file>
+    <file name="entypo_d83d(0)_24.png" crc="414881084" ref="оплата1:оплата2">
+      <caption webpage="оплата1" alt="Номер карты"/>
+      <caption webpage="оплата1" alt="Номер карты"/>
+      <caption webpage="оплата1" alt="Номер карты"/>
+      <caption webpage="оплата1" alt="Номер карты"/>
+      <caption webpage="оплата1" alt="Номер карты"/>
+      <caption webpage="оплата2" alt="Пароль из СМС"/>
+      <caption webpage="оплата2" alt="Пароль из СМС"/>
+      <caption webpage="оплата2" alt="Пароль из СМС"/>
+      <caption webpage="оплата2" alt="Пароль из СМС"/>
+      <caption webpage="оплата2" alt="Пароль из СМС"/>
+    </file>
+    <file name="entypo_d83d(1)_24.png" crc="3771047223" ref="оплата1">
+      <caption webpage="оплата1" alt="00 00"/>
+      <caption webpage="оплата1" alt="00 00"/>
+      <caption webpage="оплата1" alt="00 00"/>
+      <caption webpage="оплата1" alt="00 00"/>
+      <caption webpage="оплата1" alt="00 00"/>
+    </file>
+    <file name="entypo_e731(2)_24.png" crc="260245674" ref="оплата1">
+      <caption webpage="оплата1" alt="C V V"/>
+    </file>
+    <file name="u8023-4.png" crc="4012607420" ref="оплата1"/>
+    <file name="u8035-4.png" crc="4072410677" ref="оплата1"/>
+    <file name="data.jpg" crc="438100240" seo="true" ref="оплата1">
+      <caption webpage="оплата1" alt=""/>
+    </file>
+    <file name="pass-crop-u8123.jpg" crc="3900672711" seo="true" ref="оплата1">
+      <caption webpage="оплата1" alt=""/>
+    </file>
+    <file name="credit-card-crop-u8133.jpg" crc="37466261" seo="true" ref="оплата1">
+      <caption webpage="оплата1" alt=""/>
+    </file>
+    <file name="киви 1.jpg" crc="3969748939" seo="true" ref="оплата1">
+      <caption webpage="оплата1" alt=""/>
+    </file>
+    <file name="1121.jpg" crc="155791955" seo="true" ref="оплата2">
+      <caption webpage="оплата2" alt=""/>
+    </file>
+    <file name="u8156-11.png" crc="4102532758" ref="оплата2"/>
+    <file name="shtamp_oplacheno-1000x1000.jpg" crc="3997161852" seo="true" ref="оплачено">
+      <caption webpage="оплачено" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="3945236693" seo="true" mt="1553204952672" redirect="true"/>
+  <file name="контакты.html" crc="3995697700" seo="true" mt="1553204952272" redirect="true"/>
+  <file name="вакансии.html" crc="529056774" seo="true" mt="1553204952231" redirect="true"/>
+  <file name="продукция.html" crc="4021029535" seo="true" mt="1553204952190" redirect="true"/>
+  <file name="изделия-из-пластмассы.html" crc="147003555" seo="true" mt="1553204952147" redirect="true"/>
+  <file name="полиэтиленовая-пленка.html" crc="4212158218" seo="true" mt="1553204952114" redirect="true"/>
+  <file name="полиэтиленовые-мешки.html" crc="65529945" seo="true" mt="1553204952102" redirect="true"/>
+  <file name="пресс-формы.html" crc="408900057" seo="true" mt="1553204952046" redirect="true"/>
+  <file name="вакансии-на-производстве.html" crc="4002652068" seo="true" mt="1553204952034" redirect="true"/>
+  <file name="удаленные-вакансии.html" crc="212411373" seo="true" mt="1553204952019" redirect="true"/>
+  <file name="оплата1.html" crc="277127221" seo="true" mt="1552588469099" redirect="true"/>
+  <file name="оплата2.html" crc="3825884995" seo="true" mt="1552589007710" redirect="true"/>
+  <file name="оплачено.html" crc="411449860" seo="true" mt="1553205061472" redirect="true"/>
+</manifest>
